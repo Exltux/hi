@@ -1,0 +1,7 @@
+psutil
+watchdog
+pytesseract
+requests
+python-docx
+python-pptx
+pywin32
